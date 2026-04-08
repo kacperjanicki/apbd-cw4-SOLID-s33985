@@ -1,0 +1,35 @@
+[Bb]in/
+[Oo]bj/
+.idea/
+.vs/
+TestResults/
+nupkg/
+artifacts/
+publish/
+
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.sln.docstates
+*.user.g.cs
+*.ide/
+
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+Network Trash Folder
+Temporary Items
+.Spotlight-V100
+.Trashes
+
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+usersecrets.json
+appsettings.Development.json
+
+*.log
+*.tmp
